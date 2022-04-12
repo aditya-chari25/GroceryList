@@ -44,13 +44,14 @@ const styles = StyleSheet.create({
         minHeight: 50,
         marginTop:20,
         borderColor:'black',
-        borderTopWidth: 5,
-        borderBottomWidth:5,
+        borderTopWidth: 2,
+        borderBottomWidth:2,
     },
     task: {
         color: 'black',
         width: 300,
-        fontSize: 16,
+        fontSize: 20,
+        fontWeight:"bold",
     },
     delete: {
         marginLeft: 10,
